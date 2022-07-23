@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mattmcginty89
+- 👀 I’m interested in Funcational programming and API development
+- 🌱 I’m currently learning F# and Rust
